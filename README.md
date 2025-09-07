@@ -1,7 +1,7 @@
 # 💕 OmniaOS - AI Companion Operating System
 
 <div align="center">
-  <img src="public/favicon.svg" alt="OmniaOS Logo" width="200" />
+  <img src="public/favicon.ico" alt="OmniaOS Logo" width="200" />
   <p><em>Your AI companions for better romantic relationships</em></p>
 </div>
 
