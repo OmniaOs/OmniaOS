@@ -66,16 +66,6 @@ omniaos/
 └── package.json        # Dependencies
 ```
 
-## 🔮 Coming Soon - Premium Features
-
-### 📸 Enhanced UX & Conversation Screenshots
-Upload conversation screenshots for personalized coaching from Elias the Rizzler
-
-### 📱 Photo Texting with Lyra
-Send photos to Lyra for intuitive relationship insights and guidance
-
-### 🎨 Custom Virtual Partner Builder
-Create your very own personalized AI companion within the OmniaOS ecosystem
 
 ## 📚 Documentation
 
