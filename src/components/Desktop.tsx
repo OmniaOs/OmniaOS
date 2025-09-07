@@ -9,7 +9,8 @@ import {
   MemoryStick, Thermometer, Server, Database, Radio, 
   Sparkles, Grid3X3, Code2, Search, Command, 
   Maximize2, Minimize2, X, RotateCw, Plus,
-  Send
+  Send,
+  Github
 } from 'lucide-react';
 import Taskbar from './Taskbar';
 import SystemSettings from './SystemSettings';
@@ -529,6 +530,15 @@ const Desktop: React.FC = () => {
                   title="OmniaOS Telegram"
                 >
                   <Send size={16} className="text-gray-200 group-hover:text-white" />
+                </a>
+                <a 
+                  href="https://github.com/OmniaOs" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="p-2 rounded-lg bg-pink-800/10 hover:bg-pink-800/20 cursor-pointer transition-all duration-300 group border border-pink-700/20"
+                  title="OmniaOS GitHub"
+                >
+                  <Github size={16} className="text-gray-200 group-hover:text-white" />
                 </a>
               </div>
             )}
@@ -1452,4 +1462,4 @@ const Desktop: React.FC = () => {
   );
 };
 
-export default Desktop; 
+export default Desktop;
