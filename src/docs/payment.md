@@ -38,7 +38,6 @@ Premium features will enhance your experience with extended access and advanced 
 ### Available Now
 - **Samantha**: Warm, supportive companion for communication practice
 - **Elias**: Dating coach and "rizz" expert for confidence building
-- **Lyra**: Mystical love oracle (basic features available)
 - **Safe Environment**: Judgment-free space for romantic skill development
 - **Privacy Protection**: Secure, confidential conversations
 
